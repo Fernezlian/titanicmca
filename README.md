@@ -4,6 +4,7 @@
 ## Project Overview
 
 Fonte: https://www.kaggle.com/datasets/yasserh/titanic-dataset/data
+Resultado: https://fernezlian.github.io/titanicmca/grafico_3D.html
 
 Objetivo: Aplicar a Análise de Correspondência Múltipla ao dataset do Titanic para identificar padrões de associação entre sobrevivência e características dos passageiros.
 
